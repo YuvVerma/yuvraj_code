@@ -25,9 +25,3 @@ To run this project, you need the following Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn ydata-profiling
 
-
-The analysis provides insights into stock price trends, correlations, and trading volumes.
-
-The correlation matrix helps understand relationships between stock prices and trading volumes.
-
-The visualizations make it easier to interpret stock market behavior.
